@@ -2,6 +2,7 @@ import React from 'react';
 import logo from '../assets/img/logo-DH.png'
 
 const Encabezado = () => {
+
   return (
 
     <header className="encabezado">
@@ -19,6 +20,6 @@ const Encabezado = () => {
 </header>
   )
 }
-export default Encabezado
+export default Encabezado;
 
 /* rafc o rfc */
