@@ -10,10 +10,10 @@ function Web() {
 
   return (
     <div className="container">
-      <Encabezado />
-      <Banner />
-      <Producto />
-      <Footer />
+      <Encabezado/>
+      <Banner/>
+      <Producto/>
+      <Footer/>
     </div>
   )
 }

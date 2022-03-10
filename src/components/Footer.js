@@ -4,7 +4,7 @@ import logo from '../assets/img/logo-DH.png'
 const Footer = () => {
 
   return (
-    <footer  class="pie">
+    <footer  className="pie">
     <nav id="logo">
         <a href="#"><img src={logo} alt="Logo Digital House"></img></a>
     </nav>

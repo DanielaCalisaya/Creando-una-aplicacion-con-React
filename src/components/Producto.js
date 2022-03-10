@@ -1,9 +1,9 @@
 import React from 'react'
 
 const Producto = () => {
-/* reparar la ruta de los relojes */
+
 return (
-<main class="productos"> 
+<main className="productos"> 
     <h2 id="productos">Nuestros productos</h2>
     <article>
        <img src="/img/reloj1.jpg" alt="Reloj"></img>
@@ -39,4 +39,8 @@ return (
 }
 
 export default Producto;
-/* Las etiquetas img necesitan su etiqueta de cierre */
+
+/* Las etiquetas img necesitan su etiqueta de cierre (solo con / ya nos referimos a public) */
+
+/* Puedo tener una carpeta img dentro de assets, imagenes que las puedo tener dentro de variables,
+pero puedo tener otra carpeta img dentro de public */

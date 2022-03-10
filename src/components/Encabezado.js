@@ -7,12 +7,12 @@ const Encabezado = () => {
 
     <header className="encabezado">
     <nav id="logo">
-        <a href="#s"><img src={logo} alt="Logo Digital House"/></a>
+        <a href="/"><img src={logo} alt="Logo Digital House"/></a>
     </nav>
     <nav id="opciones">
         <ul>
-            <li><a href="#a">Inicio</a></li>
-            <li><a href="#as">Nosotros</a></li>
+            <li><a href="/">Inicio</a></li>
+            <li><a href="#nosotros">Nosotros</a></li>
             <li><a href="#productos">Productos</a></li>
             <li><a href="#contacto">Contacto</a></li>
         </ul>
@@ -21,5 +21,7 @@ const Encabezado = () => {
   )
 }
 export default Encabezado;
+
+/* en vez de solo class ahora será className eso evitará los warning que se verán en consola */
 
 /* rafc o rfc */
