@@ -2,11 +2,15 @@
 
 ![header](/src/assets/img/reloj5.jpg)
 
+## Objetivo
+
 Para la práctica de estos temas de React consideramos que lo mejor es tener la mayor
 experiencia real posible, por lo cual vamos a estar trabajando con un proyecto localmente.
 Recordemos que luego de descargar y descomprimir el archivo con el código,
 debemos ingresar a la carpeta >mi-primer-proyecto, ejecutar el comando >npm install y
 finalmente >npm start.
+
+## M9 C43 
 
 ## Clase 105
 
